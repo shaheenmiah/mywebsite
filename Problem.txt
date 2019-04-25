@@ -1,0 +1,5 @@
+1.faild to set background image
+2.faild to set hove min about div
+3.faild to set align img at the middlke
+4.failed to set hover at my akill area
+6.offst-md- align problem
